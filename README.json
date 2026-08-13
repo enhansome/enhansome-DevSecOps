@@ -1,0 +1,107 @@
+{
+  "items": [
+    {
+      "description": "In this section you can find lifecycle helpers, precommit hook tools and threat modeling tools. Threat modeling tools are specific category by themselves allowing you to simulate and discover potential gaps before you start to develop the software or during the process.\nModern DevSecOps tools allow using Threat modeling as code or generation of threat models based on the existing code annotations.",
+      "items": [],
+      "title": "Pre-commit time tools"
+    },
+    {
+      "description": "Secrets management includes managing, versioning, encryption, discovery, rotating, provisioning of passwords, certificates, configuration values and other types of secrets.",
+      "items": [],
+      "title": "Secrets management"
+    },
+    {
+      "description": "Dependency security testing and analysis is very important part of discovering supply chain attacks. SBOM creation and following dependency scanning (Software composition analysis) is critical part of continuous integration (CI). Data series and data trends tracking should be part of CI tooling. You need to know what you produce and what you consume in context of libraries and packages.",
+      "items": [],
+      "title": "OSS and Dependency management"
+    },
+    {
+      "description": "Supply chain is often the target of attacks. Which libraries you use can have a massive impact on security of the final product (artifacts). CI (continuous integration) must be monitored inside the tasks and jobs in pipeline steps. Integrity checks must be stored out of the system and in ideal case several validation runs with comparison of integrity hashes / or attestation must be performed.",
+      "items": [],
+      "title": "Supply chain specific tools"
+    },
+    {
+      "description": "Static code review tools working with source code and looking for known patterns and relationships of methods, variables, classes and libraries. SAST works with the raw code and usually not with build packages.\nNote: Semgrep is free CLI tool, however some rulesets (https://semgrep.dev/r) are having various licences, some can be free to use and can be commercial.\nOWASP curated list of SAST tools : https://owasp.org/www-community/Source_Code_Analysis_Tools",
+      "items": [],
+      "title": "SAST"
+    },
+    {
+      "description": "Dynamic application security testing (DAST) is a type of application testing (in most cases web) that checks your application from the outside by active communication and analysis of the responses based on injected inputs. DAST tools rely on inputs and outputs to operate. A DAST tool uses these to check for security problems while the software is actually running and is actively deployed on the server (or serverless function).",
+      "items": [],
+      "title": "DAST"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "IAST"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Continuous deployment security"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Kubernetes"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Containers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Multi-Cloud"
+    },
+    {
+      "description": "AWS specific DevSecOps tooling. Tools here cover different areas like inventory management, misconfiguration scanning or IAM roles and policies review.",
+      "items": [],
+      "title": "AWS"
+    },
+    {
+      "description": "GCP specific DevSecOps tooling. Tools here cover different areas like inventory management, misconfiguration scanning or IAM roles and policies review.",
+      "items": [],
+      "title": "Google cloud platform"
+    },
+    {
+      "description": "Azure specific DevSecOps tooling. Tools here cover different areas like inventory management, misconfiguration scanning or IAM roles and policies review.",
+      "items": [],
+      "title": "Microsoft Azure"
+    },
+    {
+      "description": "Policy as code is the idea of writing code in a high-level language to manage and automate policies. By representing policies as code in text files, proven software development best practices can be adopted such as version control, automated testing, and automated deployment. (Source: https://docs.hashicorp.com/sentinel/concepts/policy-as-code)",
+      "items": [],
+      "title": "Policy as code"
+    },
+    {
+      "description": "Chaos Engineering is the discipline of experimenting on a system in order to build confidence in the system’s capability to withstand turbulent conditions in production.\nReading and manifestos: https://principlesofchaos.org/",
+      "items": [],
+      "title": "Chaos engineering"
+    },
+    {
+      "description": "Scanning your infrastructure when it is only code helps shift-left the security. Many tools offer in IDE scanning and providing real-time advisory do Cloud engineers.",
+      "items": [],
+      "title": "Infrastructure as code security"
+    },
+    {
+      "description": "Network Intrusion Prevention (NIP) is a security mechanism used to detect and prevent unauthorized access, attacks, or malicious activities on a computer network. It is designed to monitor network traffic in real-time, identify potential threats, and take proactive measures to mitigate them.",
+      "items": [],
+      "title": "Network Intrusion Prevention"
+    },
+    {
+      "description": "Event driven security help to drive, automate and execute tasks for security processes. The tools here and not dedicated security tools but are helping to automate and orchestrate security tasks or are part of most modern security automation frameworks or tools.",
+      "items": [],
+      "title": "Orchestration"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:43:25.937Z",
+    "original_repository": "sottlmarek/DevSecOps",
+    "original_repository_sha": "d263f93d5e1096bdf7ca43653fc7c43ad9b6769a",
+    "enhanced_repository": "enhansome/enhansome-DevSecOps",
+    "enhanced_repository_description": null,
+    "title": "Awesome Ultimate DevSecOps library with stars"
+  }
+}
