@@ -1,7 +1,2905 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "git-secrets",
+              "description": "https://github.com/awslabs/git-secrets AWS labs tool preventing you from committing secrets to a git repository",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39160150,
+                "language": "Shell",
+                "last_commit": "2025-09-17T20:31:20Z",
+                "owner": "awslabs",
+                "repo": "git-secrets",
+                "stars": 13379
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "git-hound",
+              "description": "https://github.com/tillson/git-hound Searchers secrets in git",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 197129669,
+                "language": "Go",
+                "last_commit": "2026-02-10T00:32:15Z",
+                "owner": "tillson",
+                "repo": "git-hound",
+                "stars": 1451
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "goSDL",
+              "description": "https://github.com/slackhq/goSDL Security Development Lifecycle checklist",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 121788829,
+                "language": "PHP",
+                "last_commit": "2025-11-03T13:06:54Z",
+                "owner": "slackhq",
+                "repo": "goSDL",
+                "stars": 523
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ThreatPlaybook",
+              "description": "https://github.com/we45/ThreatPlaybook Threat modeling as code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 131515390,
+                "language": "Python",
+                "last_commit": "2026-02-17T14:37:14Z",
+                "owner": "we45",
+                "repo": "ThreatPlaybook",
+                "stars": 281
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Threat Dragon",
+              "description": "https://github.com/OWASP/threat-dragon OWASP Threat modeling tool",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 268796991,
+                "language": "JavaScript",
+                "last_commit": "2026-08-19T14:58:41Z",
+                "owner": "OWASP",
+                "repo": "threat-dragon",
+                "stars": 1568
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "threatspec",
+              "description": "https://github.com/threatspec/threatspec Threat modeling as code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 192239646,
+                "language": "Python",
+                "last_commit": "2020-12-30T13:53:16Z",
+                "owner": "threatspec",
+                "repo": "threatspec",
+                "stars": 391
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pytm",
+              "description": "https://github.com/izar/pytm A Pythonic framework for threat modeling",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1095940013,
+                "language": "Python",
+                "last_commit": "2026-08-14T14:59:16Z",
+                "owner": "izar",
+                "repo": "pytm",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Threagile",
+              "description": "https://github.com/Threagile/threagile A Go framework for threat modeling",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 284951208,
+                "language": "Go",
+                "last_commit": "2026-04-08T18:30:26Z",
+                "owner": "Threagile",
+                "repo": "threagile",
+                "stars": 779
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Talisman",
+              "description": "https://github.com/thoughtworks/talisman A tool to detect and prevent secrets from getting checked in",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47996258,
+                "language": "Go",
+                "last_commit": "2026-03-01T22:36:44Z",
+                "owner": "thoughtworks",
+                "repo": "talisman",
+                "stars": 2096
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SEDATED",
+              "description": "https://github.com/OWASP/SEDATED The SEDATED® Project (Sensitive Enterprise Data Analyzer To Eliminate Disclosure) focuses on preventing sensitive data such as user credentials and tokens from being pushed to Git.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 151276312,
+                "language": "Shell",
+                "last_commit": "2025-01-29T21:27:50Z",
+                "owner": "OWASP",
+                "repo": "SEDATED",
+                "stars": 111
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sonarlint",
+              "description": "https://github.com/SonarSource/sonarlint-core Sonar linting utility for IDE",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50339428,
+                "language": "Java",
+                "last_commit": "2026-08-24T00:10:45Z",
+                "owner": "SonarSource",
+                "repo": "sonarlint-core",
+                "stars": 256
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DevSkim",
+              "description": "https://github.com/microsoft/DevSkim DevSkim is a framework of IDE extensions and language analyzers that provide inline security analysis",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 64857273,
+                "language": "C#",
+                "last_commit": "2026-08-16T15:47:08Z",
+                "owner": "microsoft",
+                "repo": "DevSkim",
+                "stars": 1003
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "detect-secrets",
+              "description": "https://github.com/Yelp/detect-secrets Detects secrets in your codebase",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 113111650,
+                "language": "Python",
+                "last_commit": "2026-04-02T17:10:40Z",
+                "owner": "Yelp",
+                "repo": "detect-secrets",
+                "stars": 4626
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tflint",
+              "description": "https://github.com/terraform-linters/tflint A Pluggable Terraform Linter",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71487396,
+                "language": "Go",
+                "last_commit": "2026-08-22T17:38:42Z",
+                "owner": "terraform-linters",
+                "repo": "tflint",
+                "stars": 5794
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/turbot/steampipe-plugin-code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 398111174,
+                "language": "Go",
+                "last_commit": "2026-08-18T23:39:25Z",
+                "owner": "turbot",
+                "repo": "steampipe-plugin-code",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "steampipe-plugin-code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 398111174,
+                "language": "Go",
+                "last_commit": "2026-08-18T23:39:25Z",
+                "owner": "turbot",
+                "repo": "steampipe-plugin-code",
+                "stars": 19
+              }
+            }
+          ],
+          "description": "In this section you can find lifecycle helpers, precommit hook tools and threat modeling tools. Threat modeling tools are specific category by themselves allowing you to simulate and discover potential gaps before you start to develop the software or during the process.\nModern DevSecOps tools allow using Threat modeling as code or generation of threat models based on the existing code annotations.",
+          "node_type": "group",
+          "title": "Pre-commit time tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitLeaks",
+              "description": "https://github.com/zricethezav/gitleaks Gitleaks is a scanning tool for detecting hardcoded secrets",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 119190187,
+                "language": "Go",
+                "last_commit": "2026-08-19T04:15:06Z",
+                "owner": "gitleaks",
+                "repo": "gitleaks",
+                "stars": 28934
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ggshield",
+              "description": "https://github.com/gitguardian/ggshield GitGuardian shield (ggshield) is a CLI application that runs in your local environment or in a CI environment and helps you detect more than 350+ types of secrets and sensitive files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 257326204,
+                "language": "Python",
+                "last_commit": "2026-08-21T12:29:21Z",
+                "owner": "GitGuardian",
+                "repo": "ggshield",
+                "stars": 1990
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TruffleHog",
+              "description": "https://github.com/trufflesecurity/truffleHog TruffleHog is a scanning tool for detecting hardcoded secrets",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 77726177,
+                "language": "Go",
+                "last_commit": "2026-08-24T13:40:24Z",
+                "owner": "trufflesecurity",
+                "repo": "trufflehog",
+                "stars": 27569
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hashicorp Vault",
+              "description": "https://github.com/hashicorp/vault Hashicorp Vault secrets management",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31288958,
+                "language": "Go",
+                "last_commit": "2026-08-21T22:04:03Z",
+                "owner": "hashicorp",
+                "repo": "vault",
+                "stars": 36161
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mozilla SOPS",
+              "description": "https://github.com/mozilla/sops Mozilla Secrets Operations",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40684033,
+                "language": "Go",
+                "last_commit": "2026-08-24T09:19:35Z",
+                "owner": "getsops",
+                "repo": "sops",
+                "stars": 22906
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GitRob",
+              "description": "https://github.com/michenriksen/gitrob Gitrob is a tool to help find potentially sensitive files pushed to public repositories on Github",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 28916646,
+                "language": "Go",
+                "last_commit": "2022-09-20T18:09:09Z",
+                "owner": "michenriksen",
+                "repo": "gitrob",
+                "stars": 6197
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "git-wild-hunt",
+              "description": "https://github.com/d1vious/git-wild-hunt A tool to hunt for credentials in the GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 262893177,
+                "language": "Python",
+                "last_commit": "2022-12-08T09:50:50Z",
+                "owner": "josehelps",
+                "repo": "git-wild-hunt",
+                "stars": 297
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aws-vault",
+              "description": "https://github.com/99designs/aws-vault AWS Vault is a tool to securely store and access AWS credentials in a development environment",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40539602,
+                "language": "Go",
+                "last_commit": "2025-12-30T11:28:54Z",
+                "owner": "99designs",
+                "repo": "aws-vault",
+                "stars": 8985
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Knox",
+              "description": "https://github.com/pinterest/knox Knox is a service for storing and rotation of secrets, keys, and passwords used by other services",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 53691088,
+                "language": "Go",
+                "last_commit": "2026-07-10T17:52:14Z",
+                "owner": "pinterest",
+                "repo": "knox",
+                "stars": 1268
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Chef vault",
+              "description": "https://github.com/chef/chef-vault allows you to encrypt a Chef Data Bag Item",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9303203,
+                "language": "Ruby",
+                "last_commit": "2026-07-30T07:25:57Z",
+                "owner": "chef",
+                "repo": "chef-vault",
+                "stars": 405
+              }
+            }
+          ],
+          "description": "Secrets management includes managing, versioning, encryption, discovery, rotating, provisioning of passwords, certificates, configuration values and other types of secrets.",
+          "node_type": "group",
+          "title": "Secrets management"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "cdxgen",
+              "description": "https://github.com/AppThreat/cdxgen Generates CycloneDX SBOM, supports many languages and package managers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 230924711,
+                "language": "JavaScript",
+                "last_commit": "2026-08-23T13:16:11Z",
+                "owner": "cdxgen",
+                "repo": "cdxgen",
+                "stars": 1047
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SPDX",
+              "description": "https://github.com/spdx/spdx-spec SPDX format for SBOM - Software Package Data Exchange",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 90892520,
+                "language": "Python",
+                "last_commit": "2026-08-24T13:53:09Z",
+                "owner": "spdx",
+                "repo": "spdx-spec",
+                "stars": 381
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Snyk",
+              "description": "https://github.com/snyk/snyk Snyk scans and monitors your projects for security vulnerabilities",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45247496,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T10:20:05Z",
+                "owner": "snyk",
+                "repo": "cli",
+                "stars": 5644
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vulncost",
+              "description": "https://github.com/snyk/vulncost Security Scanner for VS Code",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 240465760,
+                "language": "JavaScript",
+                "last_commit": "2022-04-20T17:16:26Z",
+                "owner": "snyk",
+                "repo": "vulncost",
+                "stars": 209
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dependency Combobulator",
+              "description": "https://github.com/apiiro/combobulator Dependency-related attacks detection and prevention through heuristics and insight engine (support multiple dependency schemes)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 426342117,
+                "language": "Python",
+                "last_commit": "2024-01-10T08:26:30Z",
+                "owner": "apiiro",
+                "repo": "combobulator",
+                "stars": 95
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DependencyTrack",
+              "description": "https://github.com/DependencyTrack/dependency-track Dependency security tracking platform",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11457947,
+                "language": "Java",
+                "last_commit": "2026-08-24T13:44:09Z",
+                "owner": "DependencyTrack",
+                "repo": "dependency-track",
+                "stars": 4136
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DependencyCheck",
+              "description": "https://github.com/jeremylong/DependencyCheck Simple dependency security scanner good for CI",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 917205905,
+                "language": "Java",
+                "last_commit": "2025-09-27T20:17:48Z",
+                "owner": "jeremylong",
+                "repo": "DependencyCheck",
+                "stars": 54
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Retire.js",
+              "description": "https://github.com/retirejs/retire.js/ Helps developers to detect the use of JS-library versions with known vulnerabilities",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12496161,
+                "language": "JavaScript",
+                "last_commit": "2026-08-23T12:25:59Z",
+                "owner": "RetireJS",
+                "repo": "retire.js",
+                "stars": 4160
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PHP security checker",
+              "description": "https://github.com/fabpot/local-php-security-checker Check vulnerabilities in PHP dependencies",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 329834563,
+                "language": "Go",
+                "last_commit": "2024-08-02T14:20:08Z",
+                "owner": "fabpot",
+                "repo": "local-php-security-checker",
+                "stars": 1182
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bundler-audit",
+              "description": "https://github.com/rubysec/bundler-audit Patch-level verification for bundler",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8133216,
+                "language": "Ruby",
+                "last_commit": "2026-08-15T22:59:40Z",
+                "owner": "rubysec",
+                "repo": "bundler-audit",
+                "stars": 2757
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dependabot",
+              "description": "https://github.com/dependabot/dependabot-core Automated dependency updates built into GitHub providing security alerts",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93163073,
+                "language": "Ruby",
+                "last_commit": "2026-08-24T07:03:03Z",
+                "owner": "dependabot",
+                "repo": "dependabot-core",
+                "stars": 5735
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Renovatebot",
+              "description": "https://github.com/renovatebot/renovate Automated dependency updates, patches multi-platform and multi-language",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 76734068,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T13:53:14Z",
+                "owner": "renovatebot",
+                "repo": "renovate",
+                "stars": 22322
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Syft",
+              "description": "https://github.com/anchore/syft CLI tool and library for generating an SBOM from container images (and filesystems).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 262126497,
+                "language": "Go",
+                "last_commit": "2026-08-21T21:36:48Z",
+                "owner": "anchore",
+                "repo": "syft",
+                "stars": 9452
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OSS Review Toolkit",
+              "description": "https://github.com/oss-review-toolkit/ort A suite of tools to automate software compliance checks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 107540288,
+                "language": "Kotlin",
+                "last_commit": "2026-08-24T12:55:13Z",
+                "owner": "oss-review-toolkit",
+                "repo": "ort",
+                "stars": 2073
+              }
+            }
+          ],
+          "description": "Dependency security testing and analysis is very important part of discovering supply chain attacks. SBOM creation and following dependency scanning (Software composition analysis) is critical part of continuous integration (CI). Data series and data trends tracking should be part of CI tooling. You need to know what you produce and what you consume in context of libraries and packages.",
+          "node_type": "group",
+          "title": "OSS and Dependency management"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Tekton chains",
+              "description": "https://github.com/tektoncd/chains Kubernetes Custom Resource Definition (CRD) controller that allows you to manage your supply chain security in Tekton.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 272426602,
+                "language": "Go",
+                "last_commit": "2026-08-24T07:58:43Z",
+                "owner": "tektoncd",
+                "repo": "chains",
+                "stars": 275
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "in-toto",
+              "description": "https://github.com/in-toto/attestation/tree/v0.1.0/spec An in-toto attestation is authenticated metadata about one or more software artifacts",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 353735795,
+                "language": "Rust",
+                "last_commit": "2026-08-21T00:52:33Z",
+                "owner": "in-toto",
+                "repo": "attestation",
+                "stars": 371
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SLSA",
+              "description": "Official GitHub link Supply-chain Levels for Software Artifacts",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 346517502,
+                "language": "HTML",
+                "last_commit": "2026-08-09T11:32:43Z",
+                "owner": "slsa-framework",
+                "repo": "slsa",
+                "stars": 1912
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kritis",
+              "description": "https://github.com/grafeas/kritis Solution for securing your software supply chain for Kubernetes apps",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 136964513,
+                "language": "Go",
+                "last_commit": "2026-07-24T08:49:16Z",
+                "owner": "grafeas",
+                "repo": "kritis",
+                "stars": 710
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ratify",
+              "description": "https://github.com/deislabs/ratify Artifact Ratification Framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 395717930,
+                "language": "Go",
+                "last_commit": "2026-08-24T10:53:09Z",
+                "owner": "notaryproject",
+                "repo": "ratify",
+                "stars": 307
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "chain-bench",
+              "description": "https://github.com/aquasecurity/chain-bench Supply Chain Audit Tool",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 491440930,
+                "language": "Go",
+                "last_commit": "2024-12-11T23:52:10Z",
+                "owner": "aquasecurity",
+                "repo": "chain-bench",
+                "stars": 775
+              }
+            }
+          ],
+          "description": "Supply chain is often the target of attacks. Which libraries you use can have a massive impact on security of the final product (artifacts). CI (continuous integration) must be monitored inside the tasks and jobs in pipeline steps. Integrity checks must be stored out of the system and in ideal case several validation runs with comparison of integrity hashes / or attestation must be performed.",
+          "node_type": "group",
+          "title": "Supply chain specific tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Brakeman",
+              "description": "https://github.com/presidentbeef/brakeman Brakeman is a static analysis tool which checks Ruby on Rails applications for security vulnerabilities",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 865250,
+                "language": "Ruby",
+                "last_commit": "2026-08-13T17:08:16Z",
+                "owner": "presidentbeef",
+                "repo": "brakeman",
+                "stars": 7261
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bandit",
+              "description": "https://github.com/PyCQA/bandit Python specific SAST tool",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 131129792,
+                "language": "Python",
+                "last_commit": "2026-08-24T11:13:47Z",
+                "owner": "PyCQA",
+                "repo": "bandit",
+                "stars": 8236
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "libsast",
+              "description": "https://github.com/ajinabraham/libsast Generic SAST for Security Engineers. Powered by regex based pattern matcher and semantic aware semgrep",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 254503250,
+                "language": "Python",
+                "last_commit": "2026-08-10T05:58:13Z",
+                "owner": "ajinabraham",
+                "repo": "libsast",
+                "stars": 139
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nodejsscan",
+              "description": "https://github.com/ajinabraham/nodejsscan NodeJs SAST scanner with GUI",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31419036,
+                "language": "CSS",
+                "last_commit": "2025-10-10T12:36:37Z",
+                "owner": "ajinabraham",
+                "repo": "nodejsscan",
+                "stars": 2570
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SonarQube community",
+              "description": "https://github.com/SonarSource/sonarqube Detect security issues in code review with Static Application Security Testing (SAST)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1222504,
+                "language": "Java",
+                "last_commit": "2026-08-22T20:06:02Z",
+                "owner": "SonarSource",
+                "repo": "sonarqube",
+                "stars": 10920
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gosec",
+              "description": "https://github.com/securego/gosec Inspects source code for security problems by scanning the Go AST.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63625434,
+                "language": "Go",
+                "last_commit": "2026-08-24T13:56:26Z",
+                "owner": "securego",
+                "repo": "gosec",
+                "stars": 8930
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Safety",
+              "description": "https://github.com/pyupio/safety Checks Python dependencies for known security vulnerabilities .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71359600,
+                "language": "Python",
+                "last_commit": "2026-08-20T18:27:57Z",
+                "owner": "pyupio",
+                "repo": "safety",
+                "stars": 1995
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bearer",
+              "description": "https://github.com/Bearer/bearer Detect security issues in various languages (JavaScript/TypeScript, Ruby, Java, PHP...) .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 542197924,
+                "language": "Go",
+                "last_commit": "2026-08-24T09:52:10Z",
+                "owner": "Bearer",
+                "repo": "bearer",
+                "stars": 2735
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mobsfscan",
+              "description": "https://github.com/MobSF/mobsfscan Detect security issues in Android and iOS source code (Java/Kotlin and Objective C/Swift)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 334505414,
+                "language": "Python",
+                "last_commit": "2026-08-10T06:05:22Z",
+                "owner": "MobSF",
+                "repo": "mobsfscan",
+                "stars": 781
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "qScan",
+              "description": "https://github.com/quantakrypto/pqc-tools SAST scanner that finds quantum-vulnerable classical crypto (RSA/ECDSA/ECDH/DH) across 14 languages; emits CBOM/SBOM/SARIF/OpenVEX",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1263562337,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T13:59:13Z",
+                "owner": "quantakrypto",
+                "repo": "pqc-tools",
+                "stars": 10
+              }
+            }
+          ],
+          "description": "Static code review tools working with source code and looking for known patterns and relationships of methods, variables, classes and libraries. SAST works with the raw code and usually not with build packages.\nNote: Semgrep is free CLI tool, however some rulesets (https://semgrep.dev/r) are having various licences, some can be free to use and can be commercial.\nOWASP curated list of SAST tools : https://owasp.org/www-community/Source_Code_Analysis_Tools",
+          "node_type": "group",
+          "title": "SAST"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Akto",
+              "description": "https://github.com/akto-api-security/akto/) API Security Testing with 150+ YAML Tests",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 595526110,
+                "language": "Java",
+                "last_commit": "2026-08-24T13:54:05Z",
+                "owner": "akto-api-security",
+                "repo": "akto",
+                "stars": 1504
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Wapiti",
+              "description": "https://github.com/wapiti-scanner/wapiti Light pipeline ready scanning tool",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 270093755,
+                "language": "Python",
+                "last_commit": "2026-08-19T08:28:10Z",
+                "owner": "wapiti-scanner",
+                "repo": "wapiti",
+                "stars": 1845
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nuclei",
+              "description": "https://github.com/projectdiscovery/nuclei Template based security scanning tool",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 252813491,
+                "language": "Go",
+                "last_commit": "2026-08-24T08:59:31Z",
+                "owner": "projectdiscovery",
+                "repo": "nuclei",
+                "stars": 30759
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "purpleteam",
+              "description": "https://github.com/purpleteam-labs/purpleteam CLI DAST tool incubator project",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 146154384,
+                "language": "JavaScript",
+                "last_commit": "2023-12-13T04:43:28Z",
+                "owner": "purpleteam-labs",
+                "repo": "purpleteam",
+                "stars": 141
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "oss-fuzz",
+              "description": "https://github.com/google/oss-fuzz OSS-Fuzz: Continuous Fuzzing for Open Source Software",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63809205,
+                "language": "Shell",
+                "last_commit": "2026-08-24T10:09:09Z",
+                "owner": "google",
+                "repo": "oss-fuzz",
+                "stars": 12579
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nikto",
+              "description": "https://github.com/sullo/nikto Nikto web server scanner",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6836299,
+                "language": "Perl",
+                "last_commit": "2026-08-18T04:01:08Z",
+                "owner": "sullo",
+                "repo": "nikto",
+                "stars": 10677
+              }
+            }
+          ],
+          "description": "Dynamic application security testing (DAST) is a type of application testing (in most cases web) that checks your application from the outside by active communication and analysis of the responses based on injected inputs. DAST tools rely on inputs and outputs to operate. A DAST tool uses these to check for security problems while the software is actually running and is actively deployed on the server (or serverless function).",
+          "node_type": "group",
+          "title": "DAST"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CakeFuzzer",
+              "description": "https://github.com/Zigrin-Security/CakeFuzzer Cake Fuzzer is a project that is meant to help automatically and continuously discover vulnerabilities in CakePHP based web applications with very limited false positives.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 621387225,
+                "language": "Python",
+                "last_commit": "2025-07-22T11:08:11Z",
+                "owner": "Zigrin-Security",
+                "repo": "CakeFuzzer",
+                "stars": 104
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "IAST"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SecureCodeBox",
+              "description": "https://github.com/secureCodeBox/secureCodeBox Toolchain for continuous scanning of applications and infrastructure",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 80711933,
+                "language": "Go",
+                "last_commit": "2026-08-24T13:40:51Z",
+                "owner": "secureCodeBox",
+                "repo": "secureCodeBox",
+                "stars": 985
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenSCAP",
+              "description": "https://github.com/OpenSCAP/openscap Open Source Security Compliance Solution",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19279199,
+                "language": "XSLT",
+                "last_commit": "2026-08-13T18:15:39Z",
+                "owner": "OpenSCAP",
+                "repo": "openscap",
+                "stars": 1802
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ThreatMapper",
+              "description": "https://github.com/deepfence/ThreatMapper ThreatMapper hunts for vulnerabilities in your production platforms, and ranks these vulnerabilities based on their risk-of-exploit.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 238662977,
+                "language": "TypeScript",
+                "last_commit": "2026-06-01T08:38:26Z",
+                "owner": "deepfence",
+                "repo": "ThreatMapper",
+                "stars": 5318
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Continuous deployment security"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "KubiScan",
+              "description": "https://github.com/cyberark/KubiScan A tool for scanning Kubernetes cluster for risky permissions",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 155219807,
+                "language": "Python",
+                "last_commit": "2025-05-25T11:33:02Z",
+                "owner": "cyberark",
+                "repo": "KubiScan",
+                "stars": 1430
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kubeaudit",
+              "description": "https://github.com/Shopify/kubeaudit Audit Kubernetes clusters for various different security concerns",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 103579225,
+                "language": "Go",
+                "last_commit": "2024-08-21T18:48:27Z",
+                "owner": "Shopify",
+                "repo": "kubeaudit",
+                "stars": 1936
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kubescape",
+              "description": "https://github.com/armosec/kubescape The first open-source tool for testing if Kubernetes is deployed according to the NSA-CISA and the MITRE ATT&CK®.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 395283401,
+                "language": "Go",
+                "last_commit": "2026-08-24T11:56:49Z",
+                "owner": "kubescape",
+                "repo": "kubescape",
+                "stars": 11684
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kubesec",
+              "description": "https://github.com/controlplaneio/kubesec Security risk analysis for Kubernetes resources",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 106386673,
+                "language": "Go",
+                "last_commit": "2026-07-10T17:08:21Z",
+                "owner": "controlplaneio",
+                "repo": "kubesec",
+                "stars": 1477
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kube-bench",
+              "description": "https://github.com/aquasecurity/kube-bench Kubernetes benchmarking tool",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94779471,
+                "language": "Go",
+                "last_commit": "2026-08-18T08:46:23Z",
+                "owner": "aquasecurity",
+                "repo": "kube-bench",
+                "stars": 8150
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kube-score",
+              "description": "https://github.com/zegl/kube-score Static code analysis of your Kubernetes object definitions",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 148997603,
+                "language": "Go",
+                "last_commit": "2026-05-20T13:20:26Z",
+                "owner": "zegl",
+                "repo": "kube-score",
+                "stars": 3101
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kube-hunter",
+              "description": "https://github.com/aquasecurity/kube-hunter Active scanner for k8s (purple)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 141447532,
+                "language": "Python",
+                "last_commit": "2024-03-19T12:30:55Z",
+                "owner": "aquasecurity",
+                "repo": "kube-hunter",
+                "stars": 5077
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Calico",
+              "description": "https://github.com/projectcalico/calico Calico is an open source networking and network security solution for containers",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63882194,
+                "language": "Go",
+                "last_commit": "2026-08-24T13:29:17Z",
+                "owner": "projectcalico",
+                "repo": "calico",
+                "stars": 7329
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Krane",
+              "description": "https://github.com/appvia/krane Simple Kubernetes RBAC static analysis tool",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 163434843,
+                "language": "Ruby",
+                "last_commit": "2026-08-22T18:53:30Z",
+                "owner": "appvia",
+                "repo": "krane",
+                "stars": 744
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gatekeeper",
+              "description": "https://github.com/open-policy-agent/gatekeeper Open policy agent gatekeeper for k8s",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 154894457,
+                "language": "Go",
+                "last_commit": "2026-08-24T10:51:26Z",
+                "owner": "open-policy-agent",
+                "repo": "gatekeeper",
+                "stars": 4267
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Inspektor-gadget",
+              "description": "https://github.com/kinvolk/inspektor-gadget Collection of tools (or gadgets) to debug and inspect k8s",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 181724380,
+                "language": "C",
+                "last_commit": "2026-08-24T13:43:01Z",
+                "owner": "inspektor-gadget",
+                "repo": "inspektor-gadget",
+                "stars": 2913
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kube-linter",
+              "description": "https://github.com/stackrox/kube-linter Static analysis for Kubernetes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 287336275,
+                "language": "Go",
+                "last_commit": "2026-08-19T16:16:47Z",
+                "owner": "stackrox",
+                "repo": "kube-linter",
+                "stars": 3501
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/up9inc/mizu",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 359419233,
+                "language": "Go",
+                "last_commit": "2026-08-18T20:56:27Z",
+                "owner": "kubeshark",
+                "repo": "kubeshark",
+                "stars": 12057
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kubeshark",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 359419233,
+                "language": "Go",
+                "last_commit": "2026-08-18T20:56:27Z",
+                "owner": "kubeshark",
+                "repo": "kubeshark",
+                "stars": 12057
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/snyk-labs/helm-snyk",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 214002996,
+                "language": "TypeScript",
+                "last_commit": "2025-11-14T17:08:34Z",
+                "owner": "snyk-labs",
+                "repo": "helm-snyk",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "helm-snyk",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 214002996,
+                "language": "TypeScript",
+                "last_commit": "2025-11-14T17:08:34Z",
+                "owner": "snyk-labs",
+                "repo": "helm-snyk",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Capsule",
+              "description": "https://github.com/clastix/capsule A multi-tenancy and policy-based framework for Kubernetes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 275918955,
+                "language": "Go",
+                "last_commit": "2026-08-24T11:45:59Z",
+                "owner": "projectcapsule",
+                "repo": "capsule",
+                "stars": 2160
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Badrobot",
+              "description": "https://github.com/controlplaneio/badrobot Badrobot is a Kubernetes Operator audit tool",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 417422089,
+                "language": "Go",
+                "last_commit": "2026-06-09T10:11:13Z",
+                "owner": "controlplaneio",
+                "repo": "badrobot",
+                "stars": 229
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kube-scan",
+              "description": "https://github.com/octarinesec/kube-scan k8s cluster risk assessment tool",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 220984454,
+                "language": "Go",
+                "last_commit": "2023-01-06T02:27:16Z",
+                "owner": "octarinesec",
+                "repo": "kube-scan",
+                "stars": 802
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/turbot/steampipe-mod-kubernetes-insights",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 479005241,
+                "language": "Puppet",
+                "last_commit": "2026-03-25T21:26:28Z",
+                "owner": "turbot",
+                "repo": "steampipe-mod-kubernetes-insights",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "steampipe-mod-kubernetes-insights",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 479005241,
+                "language": "Puppet",
+                "last_commit": "2026-03-25T21:26:28Z",
+                "owner": "turbot",
+                "repo": "steampipe-mod-kubernetes-insights",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/turbot/steampipe-mod-kubernetes-compliance",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 400000462,
+                "language": "Pascal",
+                "last_commit": "2026-03-25T21:26:25Z",
+                "owner": "turbot",
+                "repo": "steampipe-mod-kubernetes-compliance",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "steampipe-mod-kubernetes-compliance",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 400000462,
+                "language": "Pascal",
+                "last_commit": "2026-03-25T21:26:25Z",
+                "owner": "turbot",
+                "repo": "steampipe-mod-kubernetes-compliance",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/aquasecurity/trivy-operator",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 489865430,
+                "language": "Go",
+                "last_commit": "2026-08-24T10:59:52Z",
+                "owner": "aquasecurity",
+                "repo": "trivy-operator",
+                "stars": 1928
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "trivy-operator",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 489865430,
+                "language": "Go",
+                "last_commit": "2026-08-24T10:59:52Z",
+                "owner": "aquasecurity",
+                "repo": "trivy-operator",
+                "stars": 1928
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nullsec-k8sscan",
+              "description": "https://github.com/bad-antics/nullsec-k8sscan Kubernetes security scanner for RBAC, network policies, pod security, and secrets management",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1141988260,
+                "language": "Python",
+                "last_commit": "2026-02-10T14:48:38Z",
+                "owner": "bad-antics",
+                "repo": "nullsec-k8sscan",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Kubernetes"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Harbor",
+              "description": "https://github.com/goharbor/harbor Trusted cloud native registry project",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50613991,
+                "language": "Go",
+                "last_commit": "2026-08-24T11:18:31Z",
+                "owner": "goharbor",
+                "repo": "harbor",
+                "stars": 29218
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Anchore",
+              "description": "https://github.com/anchore/anchore-engine Centralized service for inspection, analysis, and certification of container images",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 102645710,
+                "language": "Python",
+                "last_commit": "2023-01-26T23:58:18Z",
+                "owner": "anchore",
+                "repo": "anchore-engine",
+                "stars": 1589
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Clair",
+              "description": "https://github.com/quay/clair Docker vulnerability scanner",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 46140633,
+                "language": "Go",
+                "last_commit": "2026-08-11T23:04:19Z",
+                "owner": "quay",
+                "repo": "clair",
+                "stars": 11051
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Deepfence ThreatMapper",
+              "description": "https://github.com/deepfence/ThreatMapper Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 238662977,
+                "language": "TypeScript",
+                "last_commit": "2026-06-01T08:38:26Z",
+                "owner": "deepfence",
+                "repo": "ThreatMapper",
+                "stars": 5318
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Docker bench",
+              "description": "https://github.com/docker/docker-bench-security Docker benchmarking against CIS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35394510,
+                "language": "Shell",
+                "last_commit": "2026-06-04T18:11:52Z",
+                "owner": "docker",
+                "repo": "docker-bench-security",
+                "stars": 9694
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Falco",
+              "description": "https://github.com/falcosecurity/falco Container runtime protection",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49986046,
+                "language": "C++",
+                "last_commit": "2026-08-03T07:39:35Z",
+                "owner": "falcosecurity",
+                "repo": "falco",
+                "stars": 9298
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Trivy",
+              "description": "https://github.com/aquasecurity/trivy Comprehensive scanner for vulnerabilities in container images",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 180687624,
+                "language": "Go",
+                "last_commit": "2026-08-21T13:35:07Z",
+                "owner": "aquasecurity",
+                "repo": "trivy",
+                "stars": 37586
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Notary",
+              "description": "https://github.com/notaryproject/notary Docker signing",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 37743436,
+                "language": "Go",
+                "last_commit": "2024-08-07T19:02:32Z",
+                "owner": "notaryproject",
+                "repo": "notary",
+                "stars": 3286
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cosign",
+              "description": "https://github.com/sigstore/cosign Container signing",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 335952417,
+                "language": "Go",
+                "last_commit": "2026-08-19T15:42:49Z",
+                "owner": "sigstore",
+                "repo": "cosign",
+                "stars": 6228
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "watchtower",
+              "description": "https://github.com/openserbia/watchtower Updates the running version of your containerized app (maintained fork; upstream containrrr archived)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1213620847,
+                "language": "Go",
+                "last_commit": "2026-08-20T18:06:15Z",
+                "owner": "openserbia",
+                "repo": "watchtower",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Grype",
+              "description": "https://github.com/anchore/grype Vulnerability scanner for container images (and also filesystems).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 267054247,
+                "language": "Go",
+                "last_commit": "2026-08-21T20:54:47Z",
+                "owner": "anchore",
+                "repo": "grype",
+                "stars": 12782
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Copacetic",
+              "description": "https://github.com/project-copacetic/copacetic CLI tool for directly patching container images",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 587859813,
+                "language": "Go",
+                "last_commit": "2026-08-24T13:41:41Z",
+                "owner": "project-copacetic",
+                "repo": "copacetic",
+                "stars": 1694
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Containers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Cloudsploit",
+              "description": "https://github.com/aquasecurity/cloudsploit Detection of security risks in cloud infrastructure",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38255391,
+                "language": "JavaScript",
+                "last_commit": "2026-07-28T11:32:15Z",
+                "owner": "aquasecurity",
+                "repo": "cloudsploit",
+                "stars": 3768
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ScoutSuite",
+              "description": "https://github.com/nccgroup/ScoutSuite NCCgroup mutlicloud scanning tool",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 155376283,
+                "language": "Python",
+                "last_commit": "2025-09-23T18:33:52Z",
+                "owner": "nccgroup",
+                "repo": "ScoutSuite",
+                "stars": 7798
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CloudCustodian",
+              "description": "https://github.com/cloud-custodian/cloud-custodian/ Multicloud security analysis framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52837350,
+                "language": "Python",
+                "last_commit": "2026-08-22T14:22:57Z",
+                "owner": "cloud-custodian",
+                "repo": "cloud-custodian",
+                "stars": 6052
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CloudGraph",
+              "description": "https://github.com/cloudgraphdev/cli GraphQL API + Security for AWS, Azure, GCP, and K8s",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 399247369,
+                "language": "TypeScript",
+                "last_commit": "2023-11-13T03:49:02Z",
+                "owner": "cloudgraphdev",
+                "repo": "cli",
+                "stars": 889
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/turbot/steampipe",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 330405184,
+                "language": "Go",
+                "last_commit": "2026-08-24T02:12:00Z",
+                "owner": "turbot",
+                "repo": "steampipe",
+                "stars": 7925
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "steampipe",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 330405184,
+                "language": "Go",
+                "last_commit": "2026-08-24T02:12:00Z",
+                "owner": "turbot",
+                "repo": "steampipe",
+                "stars": 7925
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Multi-Cloud"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Prowler",
+              "description": "https://github.com/toniblyx/prowler Prowler is a command line tool that helps with AWS security assessment, auditing, hardening and incident response.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66474729,
+                "language": "Python",
+                "last_commit": "2026-08-24T13:16:24Z",
+                "owner": "prowler-cloud",
+                "repo": "prowler",
+                "stars": 14666
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aws-inventory",
+              "description": "https://github.com/nccgroup/aws-inventory Helps to discover all AWS resources created in an account",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 133691905,
+                "language": "Python",
+                "last_commit": "2024-04-05T12:41:09Z",
+                "owner": "nccgroup",
+                "repo": "aws-inventory",
+                "stars": 737
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PacBot",
+              "description": "https://github.com/tmobile/pacbot Policy as Code Bot (PacBot)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 149351086,
+                "language": "Java",
+                "last_commit": "2022-12-08T16:43:24Z",
+                "owner": "tmobile",
+                "repo": "pacbot",
+                "stars": 1310
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Komiser",
+              "description": "https://github.com/mlabouardy/komiser Monitoring dashboard for costs and security",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121289901,
+                "language": "Go",
+                "last_commit": "2026-04-12T18:16:14Z",
+                "owner": "mlabouardy",
+                "repo": "komiser",
+                "stars": 4138
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cloudsplaining",
+              "description": "https://github.com/salesforce/cloudsplaining IAM analysis framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 256772852,
+                "language": "JavaScript",
+                "last_commit": "2026-08-16T15:36:30Z",
+                "owner": "salesforce",
+                "repo": "cloudsplaining",
+                "stars": 2243
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ElectricEye",
+              "description": "https://github.com/jonrau1/ElectricEye Continuously monitor your AWS services for configurations",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 238931093,
+                "language": "Python",
+                "last_commit": "2026-02-09T03:04:44Z",
+                "owner": "jonrau1",
+                "repo": "ElectricEye",
+                "stars": 1045
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cloudmapper",
+              "description": "https://github.com/duo-labs/cloudmapper CloudMapper helps you analyze your Amazon Web Services (AWS) environments",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 118159195,
+                "language": "JavaScript",
+                "last_commit": "2024-07-15T08:42:49Z",
+                "owner": "duo-labs",
+                "repo": "cloudmapper",
+                "stars": 6288
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cartography",
+              "description": "https://github.com/lyft/cartography Consolidates AWS infrastructure assets and the relationships between them in an intuitive graph",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 172811550,
+                "language": "Python",
+                "last_commit": "2026-08-24T08:56:48Z",
+                "owner": "cartography-cncf",
+                "repo": "cartography",
+                "stars": 4023
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "policy_sentry",
+              "description": "https://github.com/salesforce/policy_sentry IAM Least Privilege Policy Generator",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 209652627,
+                "language": "Python",
+                "last_commit": "2026-08-16T15:09:57Z",
+                "owner": "salesforce",
+                "repo": "policy_sentry",
+                "stars": 2166
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AirIAM",
+              "description": "https://github.com/bridgecrewio/AirIAM IAM Least Privilege anmalyzer and Terraformer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 241606408,
+                "language": "Python",
+                "last_commit": "2025-03-18T19:37:06Z",
+                "owner": "bridgecrewio",
+                "repo": "AirIAM",
+                "stars": 825
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "StreamAlert",
+              "description": "https://github.com/airbnb/streamalert AirBnB serverless, real-time data analysis framework which empowers you to ingest, analyze, and alert",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 79683936,
+                "language": "Python",
+                "last_commit": "2023-10-23T17:15:34Z",
+                "owner": "airbnb",
+                "repo": "streamalert",
+                "stars": 2889
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CloudQuery",
+              "description": "https://github.com/cloudquery/cloudquery/ AirBnB serverless, real-time data analysis framework which empowers you to ingest, analyze, and alert",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 313853293,
+                "language": "Go",
+                "last_commit": "2026-08-24T06:46:32Z",
+                "owner": "cloudquery",
+                "repo": "cloudquery",
+                "stars": 6492
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "S3Scanner",
+              "description": "https://github.com/sa7mon/S3Scanner/ A tool to find open S3 buckets and dump their contents",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 313853293,
+                "language": "Go",
+                "last_commit": "2026-08-24T06:46:32Z",
+                "owner": "cloudquery",
+                "repo": "cloudquery",
+                "stars": 6492
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aws-iam-authenticator",
+              "description": "https://github.com/kubernetes-sigs/aws-iam-authenticator/ A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 99036030,
+                "language": "Go",
+                "last_commit": "2026-08-24T13:07:42Z",
+                "owner": "kubernetes-sigs",
+                "repo": "aws-iam-authenticator",
+                "stars": 2332
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kube2iam",
+              "description": "https://github.com/jtblin/kube2iam/ A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 58301572,
+                "language": "HTML",
+                "last_commit": "2026-05-08T11:59:36Z",
+                "owner": "jtblin",
+                "repo": "kube2iam",
+                "stars": 2042
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AWS Firewall factory",
+              "description": "Globaldatanet FMS automation Deploy, update, and stage your WAFs while managing them centrally via FMS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 424974259,
+                "language": "TypeScript",
+                "last_commit": "2025-11-17T19:53:06Z",
+                "owner": "globaldatanet",
+                "repo": "aws-firewall-factory",
+                "stars": 257
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Parliment",
+              "description": "Parliment Parliament is an AWS IAM linting library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208323795,
+                "language": "Python",
+                "last_commit": "2026-01-07T23:20:44Z",
+                "owner": "duo-labs",
+                "repo": "parliament",
+                "stars": 1121
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Yor",
+              "description": "Yor Adds informative and consistent tags across infrastructure-as-code frameworks such as Terraform, CloudFormation, and Serverless",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 335331498,
+                "language": "Go",
+                "last_commit": "2026-08-09T04:59:09Z",
+                "owner": "bridgecrewio",
+                "repo": "yor",
+                "stars": 933
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/turbot/steampipe-mod-aws-insights",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 454887489,
+                "language": "Puppet",
+                "last_commit": "2026-03-25T21:24:38Z",
+                "owner": "turbot",
+                "repo": "steampipe-mod-aws-insights",
+                "stars": 104
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "steampipe-mod-aws-insights",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 454887489,
+                "language": "Puppet",
+                "last_commit": "2026-03-25T21:24:38Z",
+                "owner": "turbot",
+                "repo": "steampipe-mod-aws-insights",
+                "stars": 104
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/turbot/steampipe-mod-aws-compliance",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 369007647,
+                "language": "Puppet",
+                "last_commit": "2026-03-25T21:24:35Z",
+                "owner": "turbot",
+                "repo": "steampipe-mod-aws-compliance",
+                "stars": 414
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "steampipe-mod-aws-compliance",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 369007647,
+                "language": "Puppet",
+                "last_commit": "2026-03-25T21:24:35Z",
+                "owner": "turbot",
+                "repo": "steampipe-mod-aws-compliance",
+                "stars": 414
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cloud-audit",
+              "description": "https://github.com/gebalamariusz/cloud-audit Open-source AWS security scanner with attack chain detection and auto-remediation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1171552326,
+                "language": "Python",
+                "last_commit": "2026-07-21T08:53:31Z",
+                "owner": "gebalamariusz",
+                "repo": "cloud-audit",
+                "stars": 69
+              }
+            }
+          ],
+          "description": "AWS specific DevSecOps tooling. Tools here cover different areas like inventory management, misconfiguration scanning or IAM roles and policies review.",
+          "node_type": "group",
+          "title": "AWS"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Forseti",
+              "description": "https://github.com/forseti-security/forseti-security Complex security orchestration and scanning platform",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 82210080,
+                "language": "Python",
+                "last_commit": "2023-06-05T23:47:26Z",
+                "owner": "forseti-security",
+                "repo": "forseti-security",
+                "stars": 1269
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/turbot/steampipe-mod-gcp-insights",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 468488281,
+                "language": "Puppet",
+                "last_commit": "2026-03-25T21:25:35Z",
+                "owner": "turbot",
+                "repo": "steampipe-mod-gcp-insights",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "steampipe-mod-gcp-insights",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 468488281,
+                "language": "Puppet",
+                "last_commit": "2026-03-25T21:25:35Z",
+                "owner": "turbot",
+                "repo": "steampipe-mod-gcp-insights",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/turbot/steampipe-mod-gcp-compliance",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 369009046,
+                "language": "Puppet",
+                "last_commit": "2026-05-28T19:18:18Z",
+                "owner": "turbot",
+                "repo": "steampipe-mod-gcp-compliance",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "steampipe-mod-gcp-compliance",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 369009046,
+                "language": "Puppet",
+                "last_commit": "2026-05-28T19:18:18Z",
+                "owner": "turbot",
+                "repo": "steampipe-mod-gcp-compliance",
+                "stars": 42
+              }
+            }
+          ],
+          "description": "GCP specific DevSecOps tooling. Tools here cover different areas like inventory management, misconfiguration scanning or IAM roles and policies review.",
+          "node_type": "group",
+          "title": "Google cloud platform"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/turbot/steampipe-mod-azure-insights",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 456997057,
+                "language": "Puppet",
+                "last_commit": "2026-03-25T21:25:01Z",
+                "owner": "turbot",
+                "repo": "steampipe-mod-azure-insights",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "steampipe-mod-azure-insights",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 456997057,
+                "language": "Puppet",
+                "last_commit": "2026-03-25T21:25:01Z",
+                "owner": "turbot",
+                "repo": "steampipe-mod-azure-insights",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/turbot/steampipe-mod-azure-compliance",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 369009815,
+                "language": "Puppet",
+                "last_commit": "2026-05-28T20:15:09Z",
+                "owner": "turbot",
+                "repo": "steampipe-mod-azure-compliance",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "steampipe-mod-azure-compliance",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 369009815,
+                "language": "Puppet",
+                "last_commit": "2026-05-28T20:15:09Z",
+                "owner": "turbot",
+                "repo": "steampipe-mod-azure-compliance",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/Azure/PSRule.Rules.Azure",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 184154668,
+                "language": "PowerShell",
+                "last_commit": "2026-08-24T13:09:56Z",
+                "owner": "Azure",
+                "repo": "PSRule.Rules.Azure",
+                "stars": 447
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PSRule.Rules.Azure",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 184154668,
+                "language": "PowerShell",
+                "last_commit": "2026-08-24T13:09:56Z",
+                "owner": "Azure",
+                "repo": "PSRule.Rules.Azure",
+                "stars": 447
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/cloudyspells/PSRule.Rules.AzureDevOps",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 691711473,
+                "language": "PowerShell",
+                "last_commit": "2024-04-01T18:33:59Z",
+                "owner": "cloudyspells",
+                "repo": "PSRule.Rules.AzureDevOps",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PSRule.Rules.AzureDevOps",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 691711473,
+                "language": "PowerShell",
+                "last_commit": "2024-04-01T18:33:59Z",
+                "owner": "cloudyspells",
+                "repo": "PSRule.Rules.AzureDevOps",
+                "stars": 31
+              }
+            }
+          ],
+          "description": "Azure specific DevSecOps tooling. Tools here cover different areas like inventory management, misconfiguration scanning or IAM roles and policies review.",
+          "node_type": "group",
+          "title": "Microsoft Azure"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Open Policy agent",
+              "description": "https://github.com/open-policy-agent/opa General-purpose policy engine that enables unified, context-aware policy enforcement across the entire stack",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48714685,
+                "language": "Go",
+                "last_commit": "2026-08-24T12:10:30Z",
+                "owner": "open-policy-agent",
+                "repo": "opa",
+                "stars": 12150
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kyverno",
+              "description": "https://github.com/kyverno/kyverno Kyverno is a policy engine designed for Kubernetes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 169108858,
+                "language": "Go",
+                "last_commit": "2026-08-24T12:59:36Z",
+                "owner": "kyverno",
+                "repo": "kyverno",
+                "stars": 8064
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Inspec",
+              "description": "https://github.com/inspec/inspec Chef InSpec is an open-source testing framework for infrastructure with a human- and machine-readable language for specifying compliance, security and policy requirements.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41571541,
+                "language": "Ruby",
+                "last_commit": "2026-08-24T13:00:25Z",
+                "owner": "inspec",
+                "repo": "inspec",
+                "stars": 3084
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cloud Formation guard",
+              "description": "https://github.com/aws-cloudformation/cloudformation-guard Cloud Formation policy as code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 271888852,
+                "language": "Rust",
+                "last_commit": "2026-08-21T21:16:41Z",
+                "owner": "aws-cloudformation",
+                "repo": "cloudformation-guard",
+                "stars": 1385
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cnspec",
+              "description": "https://github.com/mondoohq/cnspec cnspec is a cloud-native and powerful Policy as Code engine to assess the security and compliance of your business-critical infrastructure. cnspec finds vulnerabilities and misconfigurations on all systems in your infrastructure including: public and private cloud environments, Kubernetes clusters, containers, container registries, servers and endpoints, SaaS products, infrastructure as code, APIs, and more.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 539385775,
+                "language": "Go",
+                "last_commit": "2026-08-24T05:52:44Z",
+                "owner": "mondoohq",
+                "repo": "cnspec",
+                "stars": 442
+              }
+            }
+          ],
+          "description": "Policy as code is the idea of writing code in a high-level language to manage and automate policies. By representing policies as code in text files, proven software development best practices can be adopted such as version control, automated testing, and automated deployment. (Source: https://docs.hashicorp.com/sentinel/concepts/policy-as-code)",
+          "node_type": "group",
+          "title": "Policy as code"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "chaos-mesh",
+              "description": "https://github.com/chaos-mesh/chaos-mesh It is a cloud-native Chaos Engineering platform that orchestrates chaos on Kubernetes environments",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 206213815,
+                "language": "Go",
+                "last_commit": "2026-08-18T07:23:54Z",
+                "owner": "chaos-mesh",
+                "repo": "chaos-mesh",
+                "stars": 7854
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "chaoskube",
+              "description": "https://github.com/linki/chaoskube Test how your system behaves under arbitrary pod failures.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 72786190,
+                "language": "Go",
+                "last_commit": "2026-08-01T07:02:34Z",
+                "owner": "linki",
+                "repo": "chaoskube",
+                "stars": 1934
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kube-Invaders",
+              "description": "https://github.com/lucky-sideburn/KubeInvaders Gamified chaos engineering tool for Kubernetes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 178379053,
+                "language": "JavaScript",
+                "last_commit": "2026-06-23T07:41:31Z",
+                "owner": "lucky-sideburn",
+                "repo": "kubeinvaders",
+                "stars": 1120
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kube-monkey",
+              "description": "https://github.com/asobti/kube-monkey Gamified chaos engineering tool for Kubernetes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75889576,
+                "language": "Go",
+                "last_commit": "2026-08-12T20:56:37Z",
+                "owner": "asobti",
+                "repo": "kube-monkey",
+                "stars": 3067
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gremlin",
+              "description": "https://github.com/gremlin/gremlin-python Chaos enginnering SaaS platform with free plan and some open source libraries",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 243851375,
+                "language": "Python",
+                "last_commit": "2026-08-03T20:27:41Z",
+                "owner": "gremlin",
+                "repo": "gremlin-python",
+                "stars": 70
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AWS FIS samples",
+              "description": "https://github.com/aws-samples/aws-fault-injection-simulator-samples AWS Fault injection simulator samples",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 336293667,
+                "language": "Python",
+                "last_commit": "2026-07-23T18:44:44Z",
+                "owner": "aws-samples",
+                "repo": "fis-template-library",
+                "stars": 52
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CloudNuke",
+              "description": "https://github.com/gruntwork-io/cloud-nuke CLI tool to delete all resources in an AWS account",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 90905599,
+                "language": "Go",
+                "last_commit": "2026-07-27T14:18:49Z",
+                "owner": "gruntwork-io",
+                "repo": "cloud-nuke",
+                "stars": 3178
+              }
+            }
+          ],
+          "description": "Chaos Engineering is the discipline of experimenting on a system in order to build confidence in the system’s capability to withstand turbulent conditions in production.\nReading and manifestos: https://principlesofchaos.org/",
+          "node_type": "group",
+          "title": "Chaos engineering"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "KICS",
+              "description": "https://github.com/Checkmarx/kics Checkmarx security testing opensource for IaC",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 278200746,
+                "language": "Open Policy Agent",
+                "last_commit": "2026-08-24T10:03:09Z",
+                "owner": "Checkmarx",
+                "repo": "kics",
+                "stars": 2693
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Checkov",
+              "description": "https://github.com/bridgecrewio/checkov Checkov is a static code analysis tool for infrastructure-as-code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 224386599,
+                "language": "Python",
+                "last_commit": "2026-08-23T09:51:59Z",
+                "owner": "bridgecrewio",
+                "repo": "checkov",
+                "stars": 8971
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Trivy",
+              "description": "https://github.com/aquasecurity/trivy Comprehensive scanner for infrastructure-as-code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 180687624,
+                "language": "Go",
+                "last_commit": "2026-08-21T13:35:07Z",
+                "owner": "aquasecurity",
+                "repo": "trivy",
+                "stars": 37586
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terrascan",
+              "description": "https://github.com/accurics/terrascan Terrascan is a static code analyzer for Infrastructure as Code",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 103084166,
+                "language": "Go",
+                "last_commit": "2025-11-20T19:37:10Z",
+                "owner": "tenable",
+                "repo": "terrascan",
+                "stars": 5211
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cfn_nag",
+              "description": "https://github.com/stelligent/cfn_nag Looks for insecure patterns in CloudFormation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51515624,
+                "language": "Ruby",
+                "last_commit": "2024-08-01T23:27:46Z",
+                "owner": "stelligent",
+                "repo": "cfn_nag",
+                "stars": 1309
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sysdig IaC scanner action",
+              "description": "https://github.com/sysdiglabs/cloud-iac-scanner-action Scans your repository with Sysdig IAC Scanner and report the vulnerabilities.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 436560308,
+                "language": "Shell",
+                "last_commit": "2023-02-21T10:19:27Z",
+                "owner": "sysdiglabs",
+                "repo": "cloud-iac-scanner-action",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/turbot/steampipe-mod-terraform-aws-compliance",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 436473746,
+                "language": "Pascal",
+                "last_commit": "2026-03-25T21:27:05Z",
+                "owner": "turbot",
+                "repo": "steampipe-mod-terraform-aws-compliance",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "steampipe-mod-terraform-aws-compliance",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 436473746,
+                "language": "Pascal",
+                "last_commit": "2026-03-25T21:27:05Z",
+                "owner": "turbot",
+                "repo": "steampipe-mod-terraform-aws-compliance",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/turbot/steampipe-mod-terraform-azure-compliance",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 445534822,
+                "language": "Pascal",
+                "last_commit": "2026-03-25T21:27:09Z",
+                "owner": "turbot",
+                "repo": "steampipe-mod-terraform-azure-compliance",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "steampipe-mod-terraform-azure-compliance",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 445534822,
+                "language": "Pascal",
+                "last_commit": "2026-03-25T21:27:09Z",
+                "owner": "turbot",
+                "repo": "steampipe-mod-terraform-azure-compliance",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/turbot/steampipe-mod-terraform-gcp-compliance",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 449219190,
+                "language": "Pascal",
+                "last_commit": "2026-03-25T21:27:12Z",
+                "owner": "turbot",
+                "repo": "steampipe-mod-terraform-gcp-compliance",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "steampipe-mod-terraform-gcp-compliance",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 449219190,
+                "language": "Pascal",
+                "last_commit": "2026-03-25T21:27:12Z",
+                "owner": "turbot",
+                "repo": "steampipe-mod-terraform-gcp-compliance",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/turbot/steampipe-mod-terraform-oci-compliance",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 453902991,
+                "language": "Pascal",
+                "last_commit": "2026-03-25T21:27:16Z",
+                "owner": "turbot",
+                "repo": "steampipe-mod-terraform-oci-compliance",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "steampipe-mod-terraform-oci-compliance",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 453902991,
+                "language": "Pascal",
+                "last_commit": "2026-03-25T21:27:16Z",
+                "owner": "turbot",
+                "repo": "steampipe-mod-terraform-oci-compliance",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ansible Security Scanner",
+              "description": "https://github.com/cpeoples/ansible-security-scanner Static security scanner for Ansible playbooks, roles, and collections; outputs SARIF, CycloneDX SBOM, and GitLab SAST.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1224669495,
+                "language": "Python",
+                "last_commit": "2026-08-24T11:32:45Z",
+                "owner": "cpeoples",
+                "repo": "ansible-security-scanner",
+                "stars": 10
+              }
+            }
+          ],
+          "description": "Scanning your infrastructure when it is only code helps shift-left the security. Many tools offer in IDE scanning and providing real-time advisory do Cloud engineers.",
+          "node_type": "group",
+          "title": "Infrastructure as code security"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CrowdSec",
+              "description": "https://github.com/crowdsecurity/crowdsec) Crowdsec is an open-source, lightweight software, detecting peers with aggressive behaviours to prevent them from accessing your systems.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 264154402,
+                "language": "Go",
+                "last_commit": "2026-08-24T12:22:42Z",
+                "owner": "crowdsecurity",
+                "repo": "crowdsec",
+                "stars": 14635
+              }
+            }
+          ],
+          "description": "Network Intrusion Prevention (NIP) is a security mechanism used to detect and prevent unauthorized access, attacks, or malicious activities on a computer network. It is designed to monitor network traffic in real-time, identify potential threats, and take proactive measures to mitigate them.",
+          "node_type": "group",
+          "title": "Network Intrusion Prevention"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "StackStorm",
+              "description": "https://github.com/StackStorm/st2 Platform for integration and automation across services and tools supporting event driven security",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19051806,
+                "language": "Python",
+                "last_commit": "2026-08-22T04:13:47Z",
+                "owner": "StackStorm",
+                "repo": "st2",
+                "stars": 6523
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Camunda",
+              "description": "https://github.com/camunda/camunda-bpm-platform Workflow and process automation",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 7420937,
+                "language": "Java",
+                "last_commit": "2025-11-04T07:40:27Z",
+                "owner": "camunda",
+                "repo": "camunda-bpm-platform",
+                "stars": 4270
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DefectDojo",
+              "description": "https://github.com/DefectDojo/django-DefectDojo Security orchestration and vulnerability management platform",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31028375,
+                "language": "HTML",
+                "last_commit": "2026-08-24T10:19:53Z",
+                "owner": "DefectDojo",
+                "repo": "django-DefectDojo",
+                "stars": 4906
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Faraday",
+              "description": "https://github.com/infobyte/faraday Security suite for Security Orchestration, vulnerability management and centralized information",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14160461,
+                "language": "Python",
+                "last_commit": "2026-08-20T14:02:24Z",
+                "owner": "infobyte",
+                "repo": "faraday",
+                "stars": 6692
+              }
+            }
+          ],
+          "description": "Event driven security help to drive, automate and execute tasks for security processes. The tools here and not dedicated security tools but are helping to automate and orchestrate security tasks or are part of most modern security automation frameworks or tools.",
+          "node_type": "group",
+          "title": "Orchestration"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "KubeStellar Console",
+              "description": "https://github.com/kubestellar/console Open source AI-powered multi-cluster Kubernetes dashboard with Falco, OPA/Gatekeeper, and Kyverno compliance dashboards for security observability across hybrid edge and cloud. CNCF Sandbox project.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1135473716,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T10:52:39Z",
+                "owner": "kubestellar",
+                "repo": "console",
+                "stars": 127
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cynative",
+              "description": "https://github.com/cynative/cynative Agentic security CLI that runs code in a built-in sandbox to research cloud, code and runtime. Read-only enforced by default",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1279470595,
+                "language": "Go",
+                "last_commit": "2026-08-24T12:49:55Z",
+                "owner": "cynative",
+                "repo": "cynative",
+                "stars": 192
+              }
+            }
+          ],
+          "description": "Tools leveraging AI, LLMs, or agentic workflows for security research, analysis, and observability across DevSecOps pipelines.",
+          "node_type": "group",
+          "title": "AI"
+        }
+      ],
+      "title": "Tooling"
+    },
+    {
+      "description": "Here are the other links and resources that do not fit in any previous category. They can meet multiple categories in time or help you in your learning.\nTraining - https://www.practical-devsecops.com/devsecops-university/\nDevSecOps videos - Hackitect playground",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Automated Security Helper (ASH)",
+          "description": "https://github.com/aws-samples/automated-security-helper ASH is a one stop shop for security scanners, and does not require any installation. It will identify the different frameworks, and download the relevant, up to date tools. ASH is running on isolated Docker containers, keeping the user environment clean, with a single aggregated report. The following frameworks are supported: Git, Python, Javascript, Cloudformation, Terraform and Jupyter Notebooks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 497513024,
+            "language": "Python",
+            "last_commit": "2026-08-24T03:09:32Z",
+            "owner": "awslabs",
+            "repo": "automated-security-helper",
+            "stars": 683
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mobile security framework",
+          "description": "https://github.com/MobSF/Mobile-Security-Framework-MobSF SAST, DAST and pentesting tool for mobile apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 30102273,
+            "language": "JavaScript",
+            "last_commit": "2026-08-21T22:30:56Z",
+            "owner": "MobSF",
+            "repo": "Mobile-Security-Framework-MobSF",
+            "stars": 21631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Legitify",
+          "description": "https://github.com/Legit-Labs/legitify Detect and remediate misconfigurations and security risks across all your GitHub and GitLab assets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 513947555,
+            "language": "Go",
+            "last_commit": "2025-03-28T22:50:27Z",
+            "owner": "Legit-Labs",
+            "repo": "legitify",
+            "stars": 881
+          }
+        }
+      ],
+      "title": "Other"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T04:13:12.413Z",
+    "last_updated": "2026-08-24T13:57:44.573Z",
     "original_repository": "sottlmarek/DevSecOps",
     "original_repository_id": 138931215,
     "original_repository_sha": "d263f93d5e1096bdf7ca43653fc7c43ad9b6769a",
